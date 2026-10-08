@@ -17,7 +17,7 @@ while opcion != "5":
     print("4. Eliminar producto")
     print("5. Salir")
 
-    # Pedir
+    # Pedir la opcion a ejecutar 
     opcion = input("Elegí una opción (1-5): ").strip()
 
     match opcion:
